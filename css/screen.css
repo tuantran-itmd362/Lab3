@@ -198,6 +198,22 @@ html {
   text-rendering: optimizeLegibility;
 }
 
+body{
+  background-color: #B2BABB;
+  color: #212F3C;
+}
+
+h1{
+  font-size: 2em;
+  font-family: 'Montserrat', Arial, sans-serif;
+  padding-top: 15px;
+  padding-bottom: 5px;
+  letter-spacing: 1.25px;
+}
+
+p{
+  
+}
 label {
   display: block;
 }
