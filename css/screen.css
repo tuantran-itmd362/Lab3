@@ -204,18 +204,30 @@ body{
 }
 
 h1{
-  font-size: 2em;
+  font-size: 2.25em;
   font-family: 'Montserrat', Arial, sans-serif;
-  padding-top: 15px;
-  padding-bottom: 5px;
+  line-height:1.35em;
+  padding-top: 30px;
   letter-spacing: 1.25px;
 }
 
 p{
-  
+  font-size: 1.5em;
+  letter-spacing: 1px;
+  padding-top: 30px;
+  line-height:1.15em;
 }
+
 label {
   display: block;
+  font-size:1.0em;
+  letter-spacing: 0.75px;
+  padding-top: 20px;
+}
+
+#content{
+  font-family: 'Abel', Arial, sans-serif;
+  text-align: center;
 }
 
 /* ===== LAYOUT STYLES ====== */
